@@ -18,3 +18,8 @@ public class DemoTest1 {
 	
 		System.out.println("Hedia...Oueslati");
 }
+
+	public static void main (String[] args ) {
+		System.out.printlin("testing...");
+		
+	}
